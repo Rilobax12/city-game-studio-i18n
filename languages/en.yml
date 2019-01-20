@@ -1,11 +1,11 @@
 en:
   # Buttons actions verbs
   BUTTON_ANNOUNCE: Announce the game
-  BUTTON_NEW_GAME: New game
+  BUTTON_NEW_GAME: New Game
   BUTTON_HIRE: Hire
   BUTTON_APPLY: Apply
   BUTTON_BACK: Back
-  BUTTON_BUILD_MODE: Build mode
+  BUTTON_BUILD_MODE: Build Mode
   BUTTON_BUILDING_RENT: Rent
   BUTTON_CANCEL: Cancel
   BUTTON_CLOSE: Close
@@ -13,15 +13,15 @@ en:
   BUTTON_EXIT: Exit
   BUTTON_FIRE: Fire
   BUTTON_LOAD: Load
-  BUTTON_LOAD_GAME: Load game
-  BUTTON_MAIN_MENU: Main menu
+  BUTTON_LOAD_GAME: Load Game
+  BUTTON_MAIN_MENU: Main Menu
   BUTTON_NEXT: Next
   BUTTON_OK: Ok
   BUTTON_OPTIONS: Options
   BUTTON_RESET: Reset
   BUTTON_SKIP: Skip
   BUTTON_START: Start
-  BUTTON_NEED_STUDIO: No available studio
+  BUTTON_NEED_STUDIO: No Available Studio
   BUTTON_CLEAR_EVENTS: Clear
   BUTTON_TOO_BAD: Too bad
   BUTTON_BUY_ANOTHER_ONE: Buy another one
@@ -476,7 +476,7 @@ en:
   LABEL_CATCHPHRASE_5_0: The minimum service
   LABEL_CATCHPHRASE_5_1: A tasteless melting pot
   LABEL_CATCHPHRASE_5_2: A very mixed report
-  LABEL_CATCHPHRASE_5_3: We saw better, but we saw especially worse!
+  LABEL_CATCHPHRASE_5_3: We've seen better, but we've certainly seen worse!
   LABEL_CATCHPHRASE_5_4: Sure, it's not the game of the year
   LABEL_CATCHPHRASE_5_5: A hollow clearance with a limited lifespan
   LABEL_CATCHPHRASE_6_0: Spiceless
@@ -870,7 +870,7 @@ en:
   TOOLTIP_RECRUIT: List potential candidates available in town
   TOOLTIP_PORTFOLIO: List all the game you've made so far
   TOOLTIP_OPTION: Parameter and options
-  TOOLTIP_EXIT: Back to Linux
+  TOOLTIP_EXIT: Exit Game
   TOOLTIP_STUDIOS: List your studios
   TOOLTIP_STUDIOLIST: List offices available in town
   TOOLTIP_CONSTRUCT: >
